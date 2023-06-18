@@ -1,0 +1,29 @@
+{
+    "Wolf Claw Dagger":{
+        "price":150,
+        "description": "A dagger made of wolf claw. Wolf won't like you for expoiting corpse of their specie. \n Increases Kalara's attack by 1 when out of arrows"
+
+    },
+    "Dragonbone Axe":{
+            "price":200,
+            "description": "A solid axe made of dragon bones. Refined by one of the best blacksmith of this world. Can only be used by a dragonslayer. \n Increases your attack by 2"
+    },
+    "Hadar Orb":{
+        "price":250,
+        "description": "A magical orb infused with a mysterious and malefic power. Some people whisper that they experimented an overhelming feeling of joy by using it for destruction. \n Increases the Arry's splash damages by 1"
+    },
+    "Crusader's King Shield":{
+        "price":250,
+        "description": "A shiny shield worn by one of the Crusader's king a few centuries ago. As always said, the best attack is a good defense. Or was it the opposit? \n Increases your hp by 5"
+
+    },
+    "Darkhell stone":{
+        "price":500,
+        "description": "A collection of magic stones. As told in the legend these stones can reverse time and give the eternal youth. The only proven effect is that it can turn you into a 15 years old person for your entire life but you will still age and die. \n Increases your hp by 10"
+    },
+    "Holy medicine bible":{
+        "price":250,
+        "description": "Clerics say that this book is their holy bible given by god. According to laic experts it may be only a book about how to heal injuries and has nothing magical or divine. This book can't save deadly injuried people but can quicly heal minor injuries. \n Increases Vulmereth's heal by 1"
+    }
+
+}

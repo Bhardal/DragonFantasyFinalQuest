@@ -1,0 +1,57 @@
+{
+    "Warrior" : [
+        10,
+        "Hiro",
+        5
+    ], 
+    "Hunter" : [
+        10,
+        "Kalara",
+        3
+    ], 
+    "Cleric" : [  
+        10,
+        "Vulmereth",
+        1
+    ],
+    "Sorcerer" : [  
+        10,
+        "Arry",
+        4
+    ], 
+    "Monk" : [
+        10,
+        "Aang",
+        4       
+    ],
+    "Paladin" : [
+        10,
+        "Godfroy",
+        5
+    ],
+    "Barbarian" : [
+        10,
+        "Gotrek",
+        4
+    ],
+    "Rogue" : [
+        10,
+        "Riko",
+        2
+    ],
+    "Warlock" : [
+        10,
+        "Tanya",
+        7
+    ],
+    "Arcanist" : [ 
+        10,
+        "Elodin",
+        5               
+    ],
+    "Druid" : [
+        10,
+        "Nissa",
+        2
+    ]
+}

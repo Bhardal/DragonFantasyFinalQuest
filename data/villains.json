@@ -1,0 +1,88 @@
+{
+    "Troll" : [
+        5,
+        "Troll",
+        4
+    ],
+    "Troll2" : [
+        10,
+        "Troll",
+        5
+    ], 
+    "Dragon" : [
+        15,
+        "Dragon",
+        6
+    ],  
+    "Dragon2" : [
+        25,
+        "Dragon",
+        7
+    ],
+    "Goblin" : [
+        6,
+        "Goblin",
+        3
+    ],
+    "Human_Rogue" : [
+        4,
+        "Rogue",
+        5
+    ],
+    "Human_Knight" : [
+        8,
+        "Knight",
+        2
+    ],
+    "Human_Archer" : [
+        2,
+        "Archer",
+        5
+    ],
+    "Human_peasant" : [
+        1,
+        "Peasant",
+        0
+    ],
+    "Raptor" : [
+        1,
+        "Dinosaur",
+        2
+    ],
+    "Ape" : [
+        1,
+        "Monkey",
+        1
+    ],
+    "Mouse" : [
+        1,
+        "Mouse",
+        0
+    ],
+    "Wolf" : [
+        8,
+        "Wolf",
+        5
+    ],
+    "Werewolf" : [
+        2,
+        "Werewolf",
+        4
+    ],
+    "Elite_Werewolf" : [
+        4,
+        "Elite Wolf",
+        5
+    ],
+    "Wolfpack_leader" : [
+        10,
+        "Wolfpack leader",
+        4
+    ],
+    "Demon_King" : [
+        50,
+        "Demon King",
+        15
+    ]
+}
+
